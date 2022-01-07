@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Asphota Wasti</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Asphota Wasti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jan 2022 10:28:18 -0500</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>/blog/second/</link>
+      <pubDate>Fri, 07 Jan 2022 10:28:18 -0500</pubDate>
+      
+      <guid>/blog/second/</guid>
+      <description>Upper Arun Hydropower Project Hi my name is Abhijan. Here is my code:
+paste(&amp;#34;Hello&amp;#34;, &amp;#34;World&amp;#34;) </description>
+    </item>
+    
+    <item>
+      <title>First_blog</title>
+      <link>/blog/first_blog/</link>
+      <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
+      
+      <guid>/blog/first_blog/</guid>
+      <description>Improving Operational Flood Forecast The operational hydrologists of the United States’ National Weather Service (NWS) develop river forecasts as guidance for those at risk of flood damage and update those flood forecasts in real-time as more information becomes available.
+In this project, we developed a process to identify the relative importance of uncertain factors in Ohio River Forecast Center (OHRFC) flood forecasts, and empowering National Weather Service (NWS) forecasters to quickly reduce forecast errors through intelligent adjustment of model input data and state variables.</description>
+    </item>
+    
+  </channel>
+</rss>
