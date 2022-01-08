@@ -1,0 +1,192 @@
+a:hover {
+  text-decoration: none !important;
+}
+
+/*home*/
+
+.home {
+  height: auto;
+  padding: 0;
+  padding-bottom: 0;
+  margin: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.name {
+  font-family: "Alata", sans-serif;
+}
+
+.name-intro {
+  font-size: 20px;
+  padding-top: 10%;
+  padding-left: 17%;
+}
+
+.profile {
+  float: right;
+  padding-right: 22%;
+  padding-bottom: 5%;
+}
+
+.know-more {
+  padding-bottom: 15%;
+  font-family: cursive;
+}
+
+.know-more a:hover {
+  text-decoration-line: none;
+  color: black;
+}
+
+.home-content {
+  padding-top: 0;
+  padding-left: 18%;
+  padding-right: 5%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.social a:hover {
+  text-decoration-line: none;
+}
+
+@media only screen and (max-width: 992px) {
+  .profile {
+    padding-right: 35%;
+    text-align: center !important;
+  }
+  .pic {
+    align-items: right;
+    padding-top: 20%;
+    padding-bottom: 10%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .home {
+    height: auto;
+    background-position: left bottom;
+  }
+
+  .name-intro {
+    height: 200px;
+    padding-left: 10%;
+  }
+
+  .home-content {
+    height: 30%;
+    background: none;
+  }
+
+  .know-more {
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 10%;
+  }
+
+  .know-more a {
+    color: black;
+  }
+}
+
+/* recent posts */
+.recent-posts {
+  font-family: "Alata", sans-serif;
+  font-size: 5vh;
+}
+
+/* do things */
+.things-i-do{
+  font-family: "Alata", sans-serif;
+  font-size: 5vh;
+}
+
+.things-text {
+  font-size: 12pix;
+}
+
+/* about */
+
+.about {
+  height: auto;
+  background-color: #e5e9f2;
+}
+
+.jop {
+  font-size: 30px;
+}
+
+.about-me {
+  font-family: "Alata", sans-serif;
+  font-size: 5vh;
+}
+
+.about-content {
+  font-size: 20px;
+}
+
+.about-content a:hover {
+  text-decoration-line: none;
+  color: black;
+}
+
+@media only screen and (max-width: 768px) {
+  .about {
+    height: auto;
+  }
+}
+
+.skill {
+    height: 80vh;
+    background-color: #e5e9f2;
+}
+.skill-heading {
+    font-family: 'Alata', sans-serif;
+    font-size: 25px;
+}
+
+
+/* Projects */
+.projects {
+  height: auto;
+  background-color: #A26769;
+}
+
+.card-deck {
+  display: flex;
+}
+
+.project-heading {
+  font-family: "Alata", sans-serif;
+  font-size: 5vh;
+}
+
+.card-title {
+  font-family: "Alata", sans-serif;
+  font-size: 28px;
+}
+
+/* recent posts */
+.blog-back {
+  background-color: #add8e6;
+}
+
+.post-card a:hover {
+  text-decoration-line: none;
+}
+
+.post-hover :hover {
+  background-color: #17a2b8;
+}
+
+/* contact */
+.contact-head {
+  font-family: "Alata", sans-serif;
+  font-size: 25px;
+}
+
+.contact {
+  background-color: #addbe6;
+}
