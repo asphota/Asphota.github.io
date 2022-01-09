@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Asphota Wasti</title>
-    <link>/blog/</link>
-    <description>Recent content in Blogs on Asphota Wasti</description>
+    <title>flood forecast on Asphota Wasti</title>
+    <link>/tags/flood-forecast/</link>
+    <description>Recent content in flood forecast on Asphota Wasti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jan 2022 12:18:40 -0500</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 12:18:40 -0500</lastBuildDate><atom:link href="/tags/flood-forecast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Improving Operational Flood Forecast</title>
       <link>/blog/improving-operational-flood-forecast/</link>

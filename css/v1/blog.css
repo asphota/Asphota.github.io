@@ -1,3 +1,14 @@
+.blog-title {
+  font-size: 48px;
+  color: #f9fafc;
+}
+
+.blog-date
+{
+  font-size: 15px;
+  color: #f9fafc;
+}
+
 article blockquote {
   margin: 0 !;
   border-left: 4px solid #248aaa !important;
