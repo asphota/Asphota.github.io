@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jan 2022 12:18:40 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>First_blog</title>
+      <link>/blog/first_blog/</link>
+      <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
+      
+      <guid>/blog/first_blog/</guid>
+      <description>Improving Operational Flood Forecast The operational hydrologists of the United States’ National Weather Service (NWS) develop river forecasts as guidance for those at risk of flood damage and update those flood forecasts in real-time as more information becomes available.
+In this project, we developed a process to identify the relative importance of uncertain factors in Ohio River Forecast Center (OHRFC) flood forecasts, and empowering National Weather Service (NWS) forecasters to quickly reduce forecast errors through intelligent adjustment of model input data and state variables.</description>
+    </item>
+    
+    <item>
       <title>Improving Operational Flood Forecast</title>
       <link>/blog/improving-operational-flood-forecast/</link>
       <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
