@@ -53,7 +53,7 @@ if (!doNotTrack) {
     <br>
     <nav class="navbar navbar-expand-lg navbar-light bg-transperant">
       <div class="container">
-        <a class="navbar-brand text-white font-weight-bold" style="font-size: 225%;" href="">Asphota Wasti</a>
+        <a class="navbar-brand text-white font-weight-bold" style="font-size: 225%;" href="asphota.github.io/">Asphota Wasti</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
           aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -62,13 +62,13 @@ if (!doNotTrack) {
         <div class="collapse navbar-collapse font-weight-bold" id="navbarNavDropdown">
           <ul class="navbar-nav ml-auto nav-pills">
             <li class="nav-item navbar-text">
-              <a class="nav-link text-light bg-info" href="#about" aria-label="about">About</a>
+              <a class="nav-link text-light bg-info" href="asphota.github.io/#about" aria-label="about">About</a>
             </li>
             <li class="nav-item navbar-text">
-              <a class="nav-link text-light bg-info" href="#do-things" aria-label="skills">Skills</a>
+              <a class="nav-link text-light bg-info" href="asphota.github.io/#do-things" aria-label="skills">Skills</a>
             </li>
             <li class="nav-item navbar-text">
-              <a class="nav-link text-light bg-info" href="#projects" aria-label="projects">Projects</a>
+              <a class="nav-link text-light bg-info" href="asphota.github.io/#projects" aria-label="projects">Projects</a>
             </li>
             
             
@@ -82,10 +82,6 @@ if (!doNotTrack) {
               <a class="nav-link text-light bg-info" href="./blog" aria-label="Blog">Blog</a>
             </li>
             
-            <li class="nav-item navbar-text">
-              <a class="nav-link text-light bg-info" href="#resume" aria-label="Resume">Resume</a>
-            </li>
-            
           </ul>
         </div>
       </div>
@@ -93,10 +89,10 @@ if (!doNotTrack) {
 
     <div class="container">
       <div class="row justify-content-right" id="home">
-        <div class="text-white col-lg-6 text-right">
-          <div class="name-intro" style="font-size: 200%;">
+        <div class="col-lg-5 text-white text-right">
+          <div class="name-intro" style="font-size: 150%">
             Hi there, I'm
-            <h1 class="name" style="font-size: 300%;">Asphota</h1>
+            <h1 class="name" style="font-size: 200%;">Asphota</h1>
 
             
             <div class="social">
@@ -141,10 +137,24 @@ if (!doNotTrack) {
           </div>
         </div>
         
-        <div class="col-lg-6 profile pic">
-          <br>
-          <img src="./images/asphota.jpg" width="80%"
+        <div class="col-lg-4 p-0 profile">
+          <img class="pic pb-3 pt-3"src="./images/asphota.jpg" width="90%"
             alt="Asphota">
+        </div>
+
+        <div class="col-lg-2 text-dark p-3 align-items-center" id="resume">
+          <div class="row p-3 about-content">
+            <a class="button btn btn-lg btn-primary" href="./resume.pdf" aria-label="resume">
+                Resume
+            </a>
+          </div>
+          <div class="row p-3 about-content">
+            <a class="button btn btn-lg btn-primary"  href="./cv.pdf" aria-label="cv">
+                CV
+            </a>
+          </div>
+        </div>
+
         </div>
       </div>
     </div>
@@ -159,7 +169,7 @@ if (!doNotTrack) {
         <div class="row">
           
           <div class="col-lg-3 col-md-5 pb-3 post-card text-center">
-            <a href="./blog/improving_operational_flood_forecast/">
+            <a href="asphota.github.io/blog/improving_operational_flood_forecast/">
               <span class="text-secondary">January 6, 2022</span>
               <div class="text-dark">
                 Improving Operational Flood Forecast
@@ -228,14 +238,6 @@ if (!doNotTrack) {
                         </a>
                         
                         <br>
-                        <div class="about-content text-dark p-3 text-center" id="resume">
-                            <a class="button btn btn-lg btn-primary" href="./resume.pdf" aria-label="resume">
-                                Resume
-                            </a>
-                            <a class="button btn btn-lg btn-primary"  href="./cv.pdf" aria-label="cv">
-                                CV
-                            </a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -243,56 +245,111 @@ if (!doNotTrack) {
     </div>
 </section>
 <section>
-  <div class="pt-3 do-things text-center" id="do-things">
-    <div class="container">
-      <div class="text-primary font-weight-bold things-i-do">
-        Skills
+   <div class="pt-3 do-things text-center" id="do-things">
+      <div class="container">
+         <div class="text-primary font-weight-bold things-i-do">
+            Skills
+         </div>
+         <div class="p-5 justify-content-center">
+            
+            <h1> Programming Language </h1>
+            <br>
+            <ul class="list-group">
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">R</span> : 
+                     <span class="things-text">Working with global gridded datasets (Netcdf files), data cleaning, statistical analysis, stochastic weather generator (MCMC), data visualization</span>
+                  </div>
+               </li>
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">GIS</span> : 
+                     <span class="things-text">Geospatial analysis, watershed delineation, map generation and visualization</span>
+                  </div>
+               </li>
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">Python</span> : 
+                     <span class="things-text">Downloading reanalysis datasets (Netcdf files), extracting data from XMLs, hydrologic modeling (SPHY), processing raster files, storm surge modeling (using GeoCLAW)</span>
+                  </div>
+               </li>
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">MATLAB</span> : 
+                     <span class="things-text">Hydrologic modeling (HBV, HYMOD), optimization (Genetic Algorithm), future climate projection</span>
+                  </div>
+               </li>
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">Suite of HEC-products</span> : 
+                     <span class="things-text">Hydrologic modeling, hydraulic modeling and reservoir routing</span>
+                  </div>
+               </li>
+               
+            </ul>
+            
+            <br>
+            
+            <h1> xyzTitle </h1>
+            <br>
+            <ul class="list-group">
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">Painting</span> : 
+                     <span class="things-text">I paint in my free time</span>
+                  </div>
+               </li>
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">Piano</span> : 
+                     <span class="things-text">I&#39;m a self learned paino player</span>
+                  </div>
+               </li>
+               
+            </ul>
+            
+            <br>
+            
+            <h1> Language </h1>
+            <br/>
+            <ul class="list-group">
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">English</span> : 
+                     <span class="things-text">Professional fluency, primary language of choice for communication</span>
+                  </div>
+               </li>
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">Nepali</span> : 
+                     <span class="things-text">Native fleuncy</span>
+                  </div>
+               </li>
+               
+               <li class="list-group-item bg-transparent text-left">
+                  <div class="text-dark">
+                     <span class="font-weight-bold things-text">French</span> : 
+                     <span class="things-text">DELF A2 certified</span>
+                  </div>
+               </li>
+               
+            </ul>
+            
+         </div>
       </div>
-      <div class="row pb-5 justify-content-center">
-        <ul class="list-group">
-          
-          <li class="list-group-item bg-transparent text-left">
-            <div class="text-dark">
-              <span class="font-weight-bold things-text">R</span> : 
-              <span class="things-text">Working with global gridded datasets (Netcdf files), data cleaning, statistical analysis, stochastic weather generator (MCMC), data visualization</span>
-            </div>
-          </li>
-          
-          <li class="list-group-item bg-transparent text-left">
-            <div class="text-dark">
-              <span class="font-weight-bold things-text">GIS</span> : 
-              <span class="things-text">Geospatial analysis, watershed delineation, map generation and visualization</span>
-            </div>
-          </li>
-          
-          <li class="list-group-item bg-transparent text-left">
-            <div class="text-dark">
-              <span class="font-weight-bold things-text">Python</span> : 
-              <span class="things-text">Downloading reanalysis datasets (Netcdf files), extracting data from XMLs, hydrologic modeling (SPHY), processing raster files, storm surge modeling (using GeoCLAW)</span>
-            </div>
-          </li>
-          
-          <li class="list-group-item bg-transparent text-left">
-            <div class="text-dark">
-              <span class="font-weight-bold things-text">MATLAB</span> : 
-              <span class="things-text">Hydrologic modeling (HBV, HYMOD), optimization (Genetic Algorithm), future climate projection</span>
-            </div>
-          </li>
-          
-          <li class="list-group-item bg-transparent text-left">
-            <div class="text-dark">
-              <span class="font-weight-bold things-text">Suite of HEC-products</span> : 
-              <span class="things-text">Hydrologic modeling, hydraulic modeling and reservoir routing</span>
-            </div>
-          </li>
-          
-        </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+   </div>
+   </div>
+   </div>
 </section>
-
 
 <section>
     <div class="projects p-3" id="projects">
@@ -306,9 +363,13 @@ if (!doNotTrack) {
                                 <div class="card">
                                     <img class="img-fluid" src="./images/background/background.jpg" alt="Visualization of Uncertainty of Forecast Component Parts">
                                     <div class="card-body">
+                                        
+                                        <a href="https://www.sciencedirect.com/science/article/pii/S2589915520300249#f0020">
                                         <div class="card-title">Visualization of Uncertainty of Forecast Component Parts</div>
+                                        </a>
+                                        
                                         <p class="card-text font-weight-bold">National Weather Service and University of Cincinnati</p>
-                                        <p class="card-text">https://www.sciencedirect.com/science/article/pii/S2589915520300249#f0020 Proposed techniques to improve real-time flood forecast by partitioning the uncertainties using Analysis of Variance Technique and visualizing the results using heatmaps and bar charts.</p>                                        
+                                        <p class="card-text">Proposed techniques to improve real-time flood forecast by partitioning the uncertainties using Analysis of Variance Technique and visualizing the results using heatmaps and bar charts.</p>                                        
                                         
                                         <a href="./blog/improving_operational_flood_forecast" class="btn btn-info" aria-label="Learn More">Learn More</a>
                                         
@@ -321,7 +382,9 @@ if (!doNotTrack) {
                                 <div class="card">
                                     <img class="img-fluid" src="./images/background/background.jpg" alt="Climate Change Risk Analysis for projects in Kenya and Nepal">
                                     <div class="card-body">
+                                        
                                         <div class="card-title">Climate Change Risk Analysis for projects in Kenya and Nepal</div>
+                                        
                                         <p class="card-text font-weight-bold">The World Bank Group, Deltares, Future Water, University of Cincinnati</p>
                                         <p class="card-text">Performed the risk assessment of a proposed hydropower project in Nepal following the World Bank Group Decision Tree Framework using rainfall-runoff models, and climate projections.</p>                                        
                                         
@@ -334,7 +397,9 @@ if (!doNotTrack) {
                                 <div class="card">
                                     <img class="img-fluid" src="./images/background/background.jpg" alt="Climate Change Risk Assessment of the Upper Arun Project">
                                     <div class="card-body">
+                                        
                                         <div class="card-title">Climate Change Risk Assessment of the Upper Arun Project</div>
+                                        
                                         <p class="card-text font-weight-bold">The World Bank Group, University of Cincinnati, CSPDR</p>
                                         <p class="card-text">Developed and employed the International Hydropower Association’s CRG to assess the climate risks (changes in mean, extremes, and effect on daily operation) to a proposed hydropower.</p>                                        
                                         
@@ -347,7 +412,9 @@ if (!doNotTrack) {
                                 <div class="card">
                                     <img class="img-fluid" src="./images/background/background.jpg" alt="Estimating the discharge in sub-basins of the Upper Arun Hydroelectric Project">
                                     <div class="card-body">
+                                        
                                         <div class="card-title">Estimating the discharge in sub-basins of the Upper Arun Hydroelectric Project</div>
+                                        
                                         <p class="card-text font-weight-bold">The World Bank Group, University of Cincinnati, University of Massachusetts-Amherst</p>
                                         <p class="card-text">Estimated the flow, evaporation, and infiltration at different locations in an ungagged glacierized catchment with a distributed hydrologic model, and global gridded datasets.</p>                                        
                                         
@@ -360,7 +427,9 @@ if (!doNotTrack) {
                                 <div class="card">
                                     <img class="img-fluid" src="./images/background/background.jpg" alt="Understanding and visualization of the effect of topography on Storm Surge">
                                     <div class="card-body">
+                                        
                                         <div class="card-title">Understanding and visualization of the effect of topography on Storm Surge</div>
+                                        
                                         <p class="card-text font-weight-bold">National Water Center- NOAA, University of Florida, Columbia University, University of Cincinnati</p>
                                         <p class="card-text">In collaboration developed a framework to assess the topographic sensitivity of a coastal flooding model for sites from the east coasts of the United States using models that solves shallow water equations.</p>                                        
                                         
@@ -373,9 +442,11 @@ if (!doNotTrack) {
                                 <div class="card">
                                     <img class="img-fluid" src="./images/background/background.jpg" alt="Multidimensional Risk Assessment on Riverine Contamination: Case Study of Cincinnati">
                                     <div class="card-body">
+                                        
                                         <div class="card-title">Multidimensional Risk Assessment on Riverine Contamination: Case Study of Cincinnati</div>
+                                        
                                         <p class="card-text font-weight-bold">Ohio Water Resources Center, University of Cincinnati</p>
-                                        <p class="card-text">In collaboration developed a river contamination risk (RANK) framework to model plume exposure in Ohio River under climate and non-climate uncertainty by solving shallow water equations.</p>                                        
+                                        <p class="card-text">In collaboration developed a river contamination risk (RANK)framework to model plume exposure in Ohio River under climate and non-climate uncertainty by solving shallow water equations.</p>                                        
                                         
                                         
                                     </div>
@@ -386,7 +457,9 @@ if (!doNotTrack) {
                                 <div class="card">
                                     <img class="img-fluid" src="./images/background/background.jpg" alt="California Hydrologic Vulnerability Assessment and Adaptive Planning Project">
                                     <div class="card-body">
+                                        
                                         <div class="card-title">California Hydrologic Vulnerability Assessment and Adaptive Planning Project</div>
+                                        
                                         <p class="card-text font-weight-bold">University of Cincinnati, US Army Corps of Engineer</p>
                                         <p class="card-text">In collaboration developed an advancement to the stochastic weather generator using hourly global gridded datasets to prepare reservoirs in California to tackle future extreme events.</p>                                        
                                         
@@ -399,7 +472,9 @@ if (!doNotTrack) {
                                 <div class="card">
                                     <img class="img-fluid" src="./images/background/background.jpg" alt="Short Term Consultant for the World Bank">
                                     <div class="card-body">
+                                        
                                         <div class="card-title">Short Term Consultant for the World Bank</div>
+                                        
                                         <p class="card-text font-weight-bold">The World Bank Group</p>
                                         <p class="card-text">Compiled the data on suspended sediment, reservoir operation, and turbine abrasion from five high-sediment operational hydropower projects in Nepal and India</p>                                        
                                         
@@ -412,7 +487,9 @@ if (!doNotTrack) {
                                 <div class="card">
                                     <img class="img-fluid" src="./images/background/background.jpg" alt="Short Term Consultant for the World Bank">
                                     <div class="card-body">
+                                        
                                         <div class="card-title">Short Term Consultant for the World Bank</div>
+                                        
                                         <p class="card-text font-weight-bold">The World Bank Group</p>
                                         <p class="card-text">Compiled the data on suspended sediment, reservoir operation, and turbine abrasion from five high-sediment operational hydropower projects in Nepal and India</p>                                        
                                         
@@ -429,7 +506,7 @@ if (!doNotTrack) {
 </section>
 <footer class="footer py-3 text-muted text-center">
   <div class="footer-site text-uppercase pb-2 font-weight-bold">
-    <a href="">Asphota Wasti</a>
+    <a href="asphota.github.io/">Asphota Wasti</a>
   </div>
   &copy; 2022 All Rights Reserved<br>
   <div>
