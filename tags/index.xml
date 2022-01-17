@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Asphota Wasti</title>
-    <link>asphota.github.io/tags/</link>
+    <link>https://asphota.github.io/tags/</link>
     <description>Recent content in Tags on Asphota Wasti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jan 2022 12:18:40 -0500</lastBuildDate><atom:link href="asphota.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 12:18:40 -0500</lastBuildDate><atom:link href="https://asphota.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>flood forecast</title>
-      <link>asphota.github.io/tags/flood-forecast/</link>
+      <link>https://asphota.github.io/tags/flood-forecast/</link>
       <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
       
-      <guid>asphota.github.io/tags/flood-forecast/</guid>
+      <guid>https://asphota.github.io/tags/flood-forecast/</guid>
       <description></description>
     </item>
     
