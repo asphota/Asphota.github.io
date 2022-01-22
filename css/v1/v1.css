@@ -89,16 +89,16 @@ a:hover {
 /* recent posts */
 .recent-posts {
   font-family: "Alata", sans-serif;
-  font-size: 5vh;
+  font-size: 3vh;
 }
 
 /* do things */
 .things-i-do{
-  font-size: 5vh;
+  font-size: 8vh;
 }
 
 .things-text {
-  font-size: 10pix;
+  font-size: 3vh;
 }
 
 /* about */
@@ -109,16 +109,16 @@ a:hover {
 }
 
 .jop {
-  font-size: 30px;
+  font-size: 8vh;
 }
 
 .about-me {
   font-family: "Alata", sans-serif;
-  font-size: 5vh;
+  font-size: 8vh;
 }
 
 .about-content {
-  font-size: 20px;
+  font-size: 3vh;
 }
 
 .about-content a:hover {
@@ -133,19 +133,19 @@ a:hover {
 }
 
 .skill {
-    height: 80vh;
+    height: 3vh;
     background-color: #e5e9f2;
 }
 .skill-heading {
     font-family: 'Alata', sans-serif;
-    font-size: 25px;
+    font-size: 8vh;
 }
 
 
 /* Projects */
 .projects {
   height: auto;
-  background-color: #A26769;
+  background-color: #9C969A;
 }
 
 .card-deck {
@@ -154,12 +154,12 @@ a:hover {
 
 .project-heading {
   font-family: "Alata", sans-serif;
-  font-size: 5vh;
+  font-size: 8vh;
 }
 
 .card-title {
   font-family: "Alata", sans-serif;
-  font-size: 28px;
+  font-size: 18px;
 }
 
 /* recent posts */
