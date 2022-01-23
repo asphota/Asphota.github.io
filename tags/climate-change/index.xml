@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>climate change on Asphota Wasti</title>
+    <link>https://asphota.github.io/tags/climate-change/</link>
+    <description>Recent content in climate change on Asphota Wasti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jan 2022 12:18:40 -0500</lastBuildDate><atom:link href="https://asphota.github.io/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are our hydropower climate resilient?</title>
+      <link>https://asphota.github.io/blog/climate_change_and_hydropower_review/</link>
+      <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
+      
+      <guid>https://asphota.github.io/blog/climate_change_and_hydropower_review/</guid>
+      <description>Review of climate change impacts on the hydropower sector The United Nations has been organizing global climate summits for over 3 decades now. Almost every country on earth participate in these summits – called COPs – which stands for ‘Conference of the Parties’ to work towards a solution to climate change. In the most recent summit, COP26, the participating countries aggreed on four main goals. The first goal was to biggest goal was &amp;ldquo;Secure global net zero by mid-century and keep 1.</description>
+    </item>
+    
+    <item>
+      <title>Can reservoirs in California adapt to climate change?</title>
+      <link>https://asphota.github.io/blog/hourly_stochastic_weather_generator/</link>
+      <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
+      
+      <guid>https://asphota.github.io/blog/hourly_stochastic_weather_generator/</guid>
+      <description>California Hydrologic Vulnerability Assessment and Adaptive Planning Project I collbaorated in this project, to quantify and visulize the hydrologic vulnerability of the reservoirs in California to changing climatic condition.
+This study  was presented in AGU Fall 2020 meeting. The abstract of the presentation is quoted here:
+&amp;ldquo;Understanding the effect of climate variability in terms of reservoir management can be challenging as they rely on stringent operation policies based on the stationary assumption from the likelihood of historical stream-flow extremes.</description>
+    </item>
+    
+    <item>
+      <title>Climate Change Risk Assessment of a hydropower project</title>
+      <link>https://asphota.github.io/blog/ccra_upper_arun_project/</link>
+      <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
+      
+      <guid>https://asphota.github.io/blog/ccra_upper_arun_project/</guid>
+      <description>Climate Change Risk Assessment of the Upper Arun Hydropower Project in Nepal The International Hydropower Association (IHA, 2019) published Hydropower Sector Climate Resilience Guide  that offers a methodology for identifying, assessing and managing climate risks to enhance the resilience of hydropower projects. In this project we used the guide to assess the climate risks (changes in mean, extremes, and effect on daily operation) to a proposed Upper Arun Hydroelectric Project in Nepal for the World Bank.</description>
+    </item>
+    
+    <item>
+      <title>Climate Resiliency of a hydropower project</title>
+      <link>https://asphota.github.io/blog/climate_change_risk_analysis_nepal/</link>
+      <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
+      
+      <guid>https://asphota.github.io/blog/climate_change_risk_analysis_nepal/</guid>
+      <description>Climate Change Risk Analysis of a Hydropower Project in Nepal Hydropower project face climate change risks due to changes in hydrology with increasing global temperature. In order to assess the impact on individual hydropower projects, a robustness based bottom-up approach was introduced known as the Decision Tree Framework in 2015. In collaboration with Deltares, and FutureWater, we at the University of Cincinnati analyzed the risks to a hydropower project in Nepal for the World Bank in 2019.</description>
+    </item>
+    
+  </channel>
+</rss>

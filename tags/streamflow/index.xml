@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>streamflow on Asphota Wasti</title>
+    <link>https://asphota.github.io/tags/streamflow/</link>
+    <description>Recent content in streamflow on Asphota Wasti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jan 2022 12:18:40 -0500</lastBuildDate><atom:link href="https://asphota.github.io/tags/streamflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How much does suspended sediment corrode the turbine?</title>
+      <link>https://asphota.github.io/blog/short_term_consultant_wb/</link>
+      <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
+      
+      <guid>https://asphota.github.io/blog/short_term_consultant_wb/</guid>
+      <description>Suspended sediment concentration and turbine performance of hydropower projects In this independent consulting job for the World Bank, I collected suspended sediment and turbine performance data for hydropower projects in Nepal and India.</description>
+    </item>
+    
+  </channel>
+</rss>

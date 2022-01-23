@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>water quality on Asphota Wasti</title>
+    <link>https://asphota.github.io/tags/water-quality/</link>
+    <description>Recent content in water quality on Asphota Wasti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jan 2022 12:18:40 -0500</lastBuildDate><atom:link href="https://asphota.github.io/tags/water-quality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How vulnerable is our water supply to climate change?</title>
+      <link>https://asphota.github.io/blog/multidimensional_risk_assessment_rank_model/</link>
+      <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
+      
+      <guid>https://asphota.github.io/blog/multidimensional_risk_assessment_rank_model/</guid>
+      <description>Vulnerability assessment of drinking water supply under climate uncertainty using a river contamination risk (RANK) model The contamination in the river can enter the water supply system and pollute the drinking water. In this study, a framework was developed to demonstrate the application of a Computational Fluid Dynamics model in risk assessment of contamination exposure in surface waters. This model aims to address the limitations of current water quality models by establishing a two-dimensional finite volume based model.</description>
+    </item>
+    
+  </channel>
+</rss>

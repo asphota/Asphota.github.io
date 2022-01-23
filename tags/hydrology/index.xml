@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hydrology on Asphota Wasti</title>
+    <link>https://asphota.github.io/tags/hydrology/</link>
+    <description>Recent content in hydrology on Asphota Wasti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jan 2022 12:18:40 -0500</lastBuildDate><atom:link href="https://asphota.github.io/tags/hydrology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can reservoirs in California adapt to climate change?</title>
+      <link>https://asphota.github.io/blog/hourly_stochastic_weather_generator/</link>
+      <pubDate>Thu, 06 Jan 2022 12:18:40 -0500</pubDate>
+      
+      <guid>https://asphota.github.io/blog/hourly_stochastic_weather_generator/</guid>
+      <description>California Hydrologic Vulnerability Assessment and Adaptive Planning Project I collbaorated in this project, to quantify and visulize the hydrologic vulnerability of the reservoirs in California to changing climatic condition.
+This study  was presented in AGU Fall 2020 meeting. The abstract of the presentation is quoted here:
+&amp;ldquo;Understanding the effect of climate variability in terms of reservoir management can be challenging as they rely on stringent operation policies based on the stationary assumption from the likelihood of historical stream-flow extremes.</description>
+    </item>
+    
+  </channel>
+</rss>
